@@ -1,2 +1,2 @@
-# lecture-python-intro.notebooks
-Notebooks for https://python-intro.quantecon.org
+# lecture-python.notebooks
+Notebooks for https://python.quantecon.org
