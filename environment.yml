@@ -1,0 +1,17 @@
+name: lecture-python
+channels:
+  - default
+dependencies:
+  - python=3.8
+  - anaconda=2020.11
+  - pip
+  - pip:
+    - jupyter-book
+    - sphinxext-rediraffe
+    - sphinx-multitoc-numbering
+    - quantecon-book-theme
+    - sphinx-exercise
+    - joblib
+    - interpolation
+    - git+https://github.com/quantecon/sphinx-tojupyter
+
