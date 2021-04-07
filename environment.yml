@@ -3,7 +3,7 @@ channels:
   - default
 dependencies:
   - python=3.8
-  - anaconda=2020.11
+  - anaconda
   - pip
   - pip:
     - jupyter-book
@@ -11,7 +11,5 @@ dependencies:
     - sphinx-multitoc-numbering
     - quantecon-book-theme
     - sphinx-exercise
-    - joblib
-    - interpolation
-    - git+https://github.com/quantecon/sphinx-tojupyter
+    - sphinx-tojupyter
 
