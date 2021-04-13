@@ -1,18 +1,7 @@
-name: quantecon
+name: lecture-python
 channels:
   - default
 dependencies:
   - python=3.8
-  - anaconda=2020.11
-  - pip
-  - pip:
-    - jupyter-book
-    - sphinx-multitoc-numbering
-    - git+https://github.com/quantecon/quantecon-book-theme
-    - sphinx-tojupyter
-    - sphinxext-rediraffe
-    - sphinx-exercise
-    - jupytext
-    - ghp-import
-    - jupinx
+  - anaconda
 
